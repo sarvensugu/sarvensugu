@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sarven96
+- 💻 I’m a software engineer for a SME company in Penang, Malaysia.
+- 🛠 My skills include Python/Flask, HTML, CSS, JavaScript and also Angular. I also have experience in web development and also application support.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking forward in learning other brances such as Machine Learning, Game Development and Artificial Intelligence.
+- 📫 For any oppurtunities or collabrations can reach me at <sarvensugu96@gmail.com>
