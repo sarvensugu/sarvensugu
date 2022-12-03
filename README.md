@@ -1,6 +1,6 @@
 # Sarvendren Sugumaren
 
-<p>Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to connect!</p>
+<p>Welcome to my profile! I'm a student, gamer, and a full-time software engineer. I am currently learning and practicing all the necessary skills focusing primarily on data science, machine learning and web development. Thanks for visiting and I'd love to connect!</p>
 
 <p> I always knew I would be an engineer someday as I’m confident from the bottom of my heart that my passion is to create or build something that would help lots of people. It seemed like an appropriate dream given for my BE in Civil Engineering. I have experience from client based firm to main contractors firm all the while building good communication skills, presentation skills, public relation skills and so on. But something inside me always telling me to push myself further into learning more and learning something different. </p>
 
