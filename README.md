@@ -16,7 +16,7 @@
 * [Udemy : The Python Bible](https://www.udemy.com/certificate/UC-b731eb96-7a07-4910-a324-e25084adf987/)
 
 
-### Languages and Tools: 
+### Languages and Tools
 
 <p>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -35,7 +35,7 @@
 <img alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
 </p>
 
-### Weekly Learning Report:
+### Weekly Learning Report
 
 
 ```text
@@ -49,7 +49,7 @@ Other                 2 mins     ░░░░░░░░░░░░░░░�
 ```
 </p>
 
-### Contact me:
+### Contact me
 <p align="center">
 <a href="https://github.com/sarven96" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/sarvendrensugumaren" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
