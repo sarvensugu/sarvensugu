@@ -8,6 +8,11 @@
 
 <p>My personal characteristics include hardworking, learning things quickly, able to work independently, can work well with others and able to deliver good communication and presentation skills.</p>
 
+### Cerifications Aquired
+
+* [HarvardX : CS50X Introduction to Computer Science](https://cs50.harvard.edu/certificates/a0740ceD-efb9-4e4b-85bd-e2788fa24058)
+* [Udemy : The Python Bible](ude.my/UC-b731eb96-7a07-4910-a324-e25084adf987)
+
 
 ### Languages and Tools: 
 
