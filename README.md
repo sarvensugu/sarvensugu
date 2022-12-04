@@ -11,7 +11,7 @@
 ### Cerifications Aquired
 
 * [HarvardX : CS50X Introduction to Computer Science](https://certificates.cs50.io/a0740ce0-efb9-4e4b-85bd-e2788fa24058.pdf?size=letter)
-* [Udemy : The Python Bible](ude.my/UC-b731eb96-7a07-4910-a324-e25084adf987)
+* [Udemy : The Python Bible](https://www.udemy.com/certificate/UC-b731eb96-7a07-4910-a324-e25084adf987/)
 
 
 ### Languages and Tools: 
