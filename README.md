@@ -10,6 +10,8 @@
 
 ### Cerifications Aquired
 
+<p> The below shows the certicates for the courses that i have enrolled in my software engineering journey : </p>
+
 * [HarvardX : CS50X Introduction to Computer Science](https://certificates.cs50.io/a0740ce0-efb9-4e4b-85bd-e2788fa24058.pdf?size=letter)
 * [Udemy : The Python Bible](https://www.udemy.com/certificate/UC-b731eb96-7a07-4910-a324-e25084adf987/)
 
