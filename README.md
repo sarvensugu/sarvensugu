@@ -8,7 +8,7 @@
 
 <p>My personal characteristics include hardworking, learning things quickly, able to work independently, can work well with others and able to deliver good communication and presentation skills.</p>
 
-### Cerifications Aquired
+### Certifications Aquired
 
 <p> The below shows the certicates for the courses that i have enrolled in my software engineering journey : </p>
 
