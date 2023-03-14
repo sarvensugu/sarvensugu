@@ -41,15 +41,12 @@
 
 
 ```text
-Python         7 hrs 15 mins     ████████████████▓░░░░░░░░     67.04 %
-JAVA           1 hr  44 mins     ████░░░░░░░░░░░░░░░░░░░░░     16.13 %
-Angular        1 hr  15 mins     ███░░░░░░░░░░░░░░░░░░░░░░     11.70 %
-Typescript           23 mins     █░░░░░░░░░░░░░░░░░░░░░░░░     03.65 %
-HTML                  5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░     00.88 %
-Other                 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░     00.37 %
+Angular         8 hrs 00 mins    ████████████████▓░░░░░░░░     66.67 %
+Python          4 hr  00 mins    ███████████████░░░░░░░░░░     33.33 %
 
 ```
 </p>
+<p>This weekly learning report is subjected to change all the time.</p>
 
 ### Contact me
 <p align="center">
