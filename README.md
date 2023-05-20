@@ -1,10 +1,10 @@
 # Sarvendren Sugumaren
 
-<p>Welcome to my profile! I'm a student, gamer, and a full-time software engineer. I am currently learning and practicing all the necessary skills focusing primarily on data science, machine learning and web development. Thanks for visiting and I'd love to connect!</p>
+<p>Welcome to my profile! I'm a student, gamer, and a full-time software engineer. I am currently learning and practicing all the necessary skills focusing primarily on AI, cyber security and web development. Thanks for visiting and I'd love to connect!</p>
 
-<!-- <p> I always knew I would be an engineer someday as I’m confident from the bottom of my heart that my passion is to create or build something that would help lots of people. It seemed like an appropriate dream given for my BE in Civil Engineering. I have experience from client based firm to main contractors firm all the while building good communication skills, presentation skills, public relation skills and so on. But something inside me always telling me to push myself further into learning more and learning something different. </p> -->
+<!-- <p> I always knew I would be an engineer someday as I’m confident from the bottom of my heart that my passion is to create or build something that would help lots of people. It seemed like an appropriate dream given for my BE in Civil Engineering. I have experience from client based firm to main contractors firm all the while building good communication skills, presentation skills, public relation skills and so on. Although I'm proud to learn gain those specific soft skills, something inside me always telling me to push myself further into learning more and learning something different. </p> -->
 
-<p>As a gaming enthusiast; I know that I should be learning on how to CODE, so being a STEM student also means that I wont stop DOING. And that's when it happened; the spark I was missing ignited the moment I clicked my first web development tutorial. Since then, my journey in learning programming has started and still going strong. Currently I’m working as a software engineer in related in DevOps integrated environment.</p>
+<p>As a gaming and tech enthusiast; I know that I should be learning on how to CODE, so being a STEM student also means that I wont stop DOING. And that's when it happened; the spark I was missing ignited the moment I clicked my first web development tutorial. Since then, my journey in learning programming has started and still going strong. Currently I’m working as a software engineer in related in DevOps integrated environment.</p>
 
 <p>My personal characteristics include hardworking, learning things quickly, able to work independently, can work well with others and able to deliver good communication and presentation skills.</p>
 
@@ -23,11 +23,11 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;" /> -->
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
@@ -36,7 +36,8 @@
 <!-- <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" /> -->
 
 <img alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
-</p>
+  
+<!-- </p>
 
 ### Weekly Learning Report
 
@@ -46,8 +47,9 @@ Angular         8 hrs 00 mins    ███████████████�
 Python          4 hr  00 mins    ███████████████░░░░░░░░░░     33.33 %
 
 ```
-</p>
-<p>This weekly learning report is subjected to change all the time.</p>
+</p> -->
+  
+<!-- <p>This weekly learning report is subjected to change all the time.</p> -->
 
 ### Contact me
 <p align="center">
